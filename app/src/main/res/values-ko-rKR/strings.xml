@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">UTS-PAPB2</string>
+    <string name="title_activity_maps">지도 활동</string>
+    <string name="greet">안녕하세요, 사용자님!</string>
+    <string name="happy">너의 하루를 즐겨!</string>
+    <string name="humidity">습기</string>
+    <string name="light">빛</string>
+    <string name="pressure">압력</string>
+    <string name="action_language">언어</string>
+    <string name="buttonMap">지도에서 열기</string>
+</resources>

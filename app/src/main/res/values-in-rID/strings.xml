@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">UTS-PAPB2</string>
+    <string name="title_activity_maps">Peta</string>
+    <string name="greet">Halo, Pengguna!</string>
+    <string name="happy">Selamat beraktivitas!</string>
+    <string name="humidity">Kelembaban</string>
+    <string name="light">Cahaya</string>
+    <string name="pressure">Tekanan Udara</string>
+    <string name="action_language">Bahasa</string>
+    <string name="buttonMap">Buka di Map</string>
+</resources>
